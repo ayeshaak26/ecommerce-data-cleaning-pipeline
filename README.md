@@ -1,1 +1,7 @@
-# ecommerce-data-cleaning-pipeline
+## 📦 Getting Started & Dataset Access
+
+To interact with the live pipeline dashboard, you will need to provide the raw uncleaned transaction files:
+
+1. **Download the Source Files:** Download the raw uncleaned dataset directly from the official Kaggle repository: [🔗 Kaggle: Dirty E-commerce Data for Practice](https://www.kaggle.com/datasets/generaterealdata/dirty-ecommerce-data-for-cleaning-practice).
+2. **Launch the Interface:** Open the live server instance: [🚀 Launch Live Automated Cleansing Dashboard](https://streamlit.io) *(Replace with your actual Streamlit link!)*
+3. **Execute the Pipeline:** Drag and drop the raw uncompressed `dirty_ecommerce_data.csv` file straight into the application file uploader to watch the validation matrix process in real-time.
